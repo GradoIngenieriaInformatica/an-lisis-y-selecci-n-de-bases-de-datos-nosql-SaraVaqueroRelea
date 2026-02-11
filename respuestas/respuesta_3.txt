@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Relacional | Debido a la necesidad de fiabilidad en la base de datos.

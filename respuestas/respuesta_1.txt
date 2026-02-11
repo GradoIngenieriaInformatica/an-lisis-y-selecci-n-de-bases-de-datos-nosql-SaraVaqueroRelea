@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Grafos | Debido al excelente manejo de relaciones.
