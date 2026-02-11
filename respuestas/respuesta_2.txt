@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Tipo Clave Valor | Debido al uso para un sistema de caché, rápido y con identificadores únicos.
